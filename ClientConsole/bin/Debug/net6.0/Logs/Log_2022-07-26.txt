@@ -1,0 +1,3 @@
+2022-07-26 12:54:28,448 [1] INFO  App  
+ Log System Initialized 
+ 
