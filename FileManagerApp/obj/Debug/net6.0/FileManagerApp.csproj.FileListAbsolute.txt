@@ -1,0 +1,15 @@
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\bin\Debug\net6.0\FileManagerApp.exe
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\bin\Debug\net6.0\FileManagerApp.deps.json
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\bin\Debug\net6.0\FileManagerApp.runtimeconfig.json
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\bin\Debug\net6.0\FileManagerApp.dll
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\bin\Debug\net6.0\FileManagerApp.pdb
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\obj\Debug\net6.0\FileManagerApp.csproj.AssemblyReference.cache
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\obj\Debug\net6.0\FileManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\obj\Debug\net6.0\FileManagerApp.AssemblyInfoInputs.cache
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\obj\Debug\net6.0\FileManagerApp.AssemblyInfo.cs
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\obj\Debug\net6.0\FileManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\obj\Debug\net6.0\FileManagerApp.dll
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\obj\Debug\net6.0\refint\FileManagerApp.dll
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\obj\Debug\net6.0\FileManagerApp.pdb
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\obj\Debug\net6.0\FileManagerApp.genruntimeconfig.cache
+C:\Users\ttrushel\Documents\ConsoleApps\FileManagerApp\obj\Debug\net6.0\ref\FileManagerApp.dll
